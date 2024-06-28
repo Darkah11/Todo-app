@@ -20,7 +20,7 @@ const initialState = {
         },
         {
         id: 5,
-        text: "learn redux"
+        text: "learn redux toolkit"
         },
     ],
 }
